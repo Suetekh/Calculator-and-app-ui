@@ -11,10 +11,12 @@ This Flutter project demonstrates a calculator application integrated with tab-b
 - **Customizable Appearance**: Active and inactive tabs with different appearances.
 
 ## Screenshots
-![Calculator Screen](screenshots/calculator_screen.png)
-![SignIn Screen](screenshots/signin_screen.png)
-![SignUp Screen](screenshots/signup_screen.png)
-![Navigation Drawer](screenshots/navigation_drawer.png)
+![image](https://github.com/Suetekh/Calculator-and-app-ui/assets/90240831/39fc70e6-0e49-46ba-b80d-c6725fd6f06b)
+![image](https://github.com/Suetekh/Calculator-and-app-ui/assets/90240831/f1d82c1c-e86c-44e5-bdb2-43a3d01778cc)
+![image](https://github.com/Suetekh/Calculator-and-app-ui/assets/90240831/59914356-7ccc-4d38-9c21-d9e81cb467f3)
+![image](https://github.com/Suetekh/Calculator-and-app-ui/assets/90240831/ec01fa15-e4b8-45ce-8dcc-62dba3ec5c1e)
+
+
 
 ## Getting Started
 
@@ -42,7 +44,15 @@ This Flutter project demonstrates a calculator application integrated with tab-b
 
 ## Project Structure
 
+lib/
+├── main.dart # Entry point of the application
+├── home_screen.dart # Home screen with bottom navigation and drawer
+├── sign_in.dart # SignIn screen
+├── sign_up.dart # SignUp screen
+├── calculat_screen.dart # Calculator screen
+└── button_values.dart # Button values for the calculator
 
 
-![image](https://github.com/Suetekh/Calculator-and-app-ui/assets/90240831/39fc70e6-0e49-46ba-b80d-c6725fd6f06b)
+
+
 
